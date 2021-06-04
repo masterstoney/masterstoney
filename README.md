@@ -38,8 +38,8 @@ This is a contract project I did for a client. It was built using Swift and it t
 
 <p align="center">
   <img src="profileScreenshots/lotfHome.PNG" alt="Home screen" width="187.5" height="406">
-  <img src="profileScreenshots/lotfDI.PNG" alt="Date Ideas Screen" width="187.5" height="406">
   <img src="profileScreenshots/lotfDetail.PNG" alt="Details Screen" width="187.5" height="406">
+  <img src="profileScreenshots/lotfDI.PNG" alt="Date Ideas Screen" width="187.5" height="406">
 </p>
 
 ### [Snacc Attacc](https://apps.apple.com/us/app/snacc-attacc/id1492507970)
