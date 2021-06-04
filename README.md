@@ -50,4 +50,51 @@ I was responsible for deploying the game on iOS. I also worked on the submission
   <img src="profileScreenshots/snaccGameplay.PNG" alt="Gameplay screenshot" width="406" height="187.5">
 </p>
 
-## Projects on Github 🚀
+## Projects on Github 🚀 (more info in project READMEs)
+
+### [RichFlights-2.0](https://github.com/masterstoney/RichFlights-2.0)
+
+Ticket price tracking and flight tracking app.
+
+<p align="center">
+  <img src="https://github.com/masterstoney/RichFlights-2.0/blob/main/Screenshots/TripSelectionView.PNG" alt="Trip search screen" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/RichFlights-2.0/blob/main/Screenshots/searchResult.PNG" alt="Trip search result screen" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/RichFlights-2.0/blob/main/Screenshots/flightTrackingSearchView.PNG" alt="Flight track search screen" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/RichFlights-2.0/blob/main/Screenshots/flightTrackDetailedView.PNG" alt="Flight track detail screen" width="187.5" height="406">
+</p>
+
+### [ISF-Calc](https://github.com/masterstoney/ISF-Calc)
+
+Demo application to calculate insulin sensitivity factor.
+
+<p align="center">
+  <img src="https://github.com/masterstoney/ISF-Calc/blob/master/Screenshots/homeScreen.PNG" alt="Long calculation entry screen" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/ISF-Calc/blob/master/Screenshots/quickCalcScreen.jpeg" alt="Quick calculation entry screen" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/ISF-Calc/blob/master/Screenshots/resultScreen.PNG" alt="Calculation result screen" width="187.5" height="406">
+</p>
+
+### [WildcatWellness](https://github.com/masterstoney/WildcatWellness)
+
+Hackathon project focused on student wellbeing.
+
+<p align="center">
+  <img src="https://github.com/masterstoney/WildcatWellness/blob/master/Screenshots/IMG_7277.PNG" alt="Dashboard screen in dark mode" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/WildcatWellness/blob/master/Screenshots/IMG_7275.PNG" alt="Physical wellbeing options screen" width="187.5" height="406">
+  <img src="https://github.com/masterstoney/WildcatWellness/blob/master/Screenshots/IMG_7276.PNG" alt="Water detail screen" width="187.5" height="406">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
